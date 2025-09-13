@@ -1,15 +1,19 @@
-# Excel Projects  
+## 📊 Vrinda Store Annual Report 2022
 
-This repository contains my **Excel projects** as part of my data analyst journey.  
+This Excel dashboard analyzes store performance for 2022.
 
-## Projects  
-- **Sales Dashboard**: Analyzed sales data with PivotTables & charts.  
-- **HR Analytics**: Employee attrition and salary insights.  
-- **Expense Tracker**: Personal finance tracking dashboard.  
+### Insights:
+- **Orders vs Sales**: Sales peaked in April but declined towards year-end.  
+- **Men vs Women**: Women contributed 64% of total sales.  
+- **Top States**: Maharashtra and Karnataka lead in sales.  
+- **Order Status**: Majority of orders were successfully completed.  
+- **Channel Orders**: Amazon and Flipkart dominated.  
 
-## Tools Used  
-- Excel (PivotTables, Charts, Conditional Formatting, Functions)  
+### Skills Used:
+- Data Cleaning  
+- PivotTables  
+- PivotCharts  
+- Slicers & Filters  
+- Dashboard Design  
 
-## About Me  
-I’m an aspiring **Data Analyst** learning Excel, SQL, and Python.  
-I’ll keep updating this repo with new projects as I learn. 🚀  
+---
